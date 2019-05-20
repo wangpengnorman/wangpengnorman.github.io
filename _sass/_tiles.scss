@@ -26,6 +26,21 @@
   .post-excerpt {
     @include font-size(16);
   }
+  .newtitle{
+    font-size: 2.08vw;
+    display: inline;
+    font-weight:300;
+    font-family: "Source Code Pro";
+  }
+  .newnews{
+    margin-bottom: 2.85vw;
+  }
+  .nullborder{
+    height: 0.208vw;
+    width: 1.5625vw;
+    background: #ffb900;
+  }
+  
   .post-teaser {
     position: relative;
     display: block;
@@ -46,4 +61,19 @@
     //   }
     // }
   }
+}
+
+.newtitle{
+  font-size: 1.08vw;
+  display: inline;
+  font-weight:300;
+  font-family: "Source Code Pro";
+}
+.newnews{
+  margin-bottom: 2.85vw;
+}
+.nullborder{
+  height: 0.208vw;
+  width: 1.5625vw;
+  background: #ffb900;
 }
