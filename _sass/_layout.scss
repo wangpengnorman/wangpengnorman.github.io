@@ -159,18 +159,23 @@
 				&:first-child {
 					@include font-size(20,yes,30);
 				}
+				//word-break:break-all;
+				//word-wrap:break-word;
+				white-space:nowrap;
 			}
 			// cleaner underlines for links
-			a { text-decoration: none; }
+			a { text-decoration: none;
+				}
 			p a,
 			li a {
 				border-bottom: 1px dotted lighten($link-color, 50);
 				&:hover {
 					border-bottom-style: solid;
+				
 				}
 			}
 			p > a.reversefootnote {
-				border-bottom-width: 0;
+				border-bottom-width: 0;	
 			}
       .toc li > a {
         border-bottom-width: 0;
@@ -225,6 +230,51 @@
 			border-width: 0;
 		}
 	}
+	.research-title{
+		text-align: center;
+		font-size: 1.375vw;
+		font-family:Arial;
+		margin-bottom: 0px;
+	}
+	
+	.border-bottom{
+		height: 0.208vw;
+		width: 1.5625vw;
+		background: #ffb900;
+		margin:0 auto;
+	}
+	.left-date{
+		width: 6.25vw;
+		font-size: 2.0vw;
+		display: inline-block;
+		vertical-align: top;
+		line-height:1;
+		font-family: Arial;
+	}
+	.right-pubinfo{
+		width: 32vw;
+		margin-left: 1.5625vw;
+		display: inline-block;
+		vertical-align: top;
+		font-size: 0.8375vw;
+		line-height: 1.85vw;
+		font-family: Arial;
+	}
+	// .publications:hover{
+	// 	background: #464646;
+	// 	color: #f1f1f1;
+	// }
+	// .publications:hover .left-date{
+	// 	color: #ffb900;
+	// }
+	.publication{
+
+	}
+	.pub-line{
+		width: 62.5vw;
+		margin: 0 auto;
+	}
+
 }
 // page lead
 .page-lead {
@@ -349,3 +399,4 @@
 		}
 	}
 }
+
