@@ -6,6 +6,8 @@ excerpt: "Custom written post descriptions are the way to go... if you're not la
 tags: [sample, readability]
 modified: 2013-06-30
 ads: false
+image:
+  teaser: image_retrieval.jpg
 ---
 
 - We were the 3rd place in the fashion product search track of JD AI Fashion-Challenge, ChinaMM, 2018. https://fashion-challenge.github.io/rank.html

@@ -13,23 +13,25 @@ image:
 <div class="tiles">
 
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <h2 class="post-title">Built for Jekyll 3</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <p class="post-excerpt">I am a Professor in School of Computer Science at Northwestern Polytechnical University, Xi’an, China. I am also with National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China.</p>
 </div><!-- /.tile -->
 
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <p class="post-excerpt">I received a bachelor and a PhD degree at Beihang University, Beijing, China, in 2004 and 2011 respectively; then worked at Fujitsu Beijing R&D center for one year and at University of Adelaide for four years. Since 2017, I have been working as a Professor at Northwestern Polytechnical University. </p>
 </div><!-- /.tile -->
 
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <p class="post-excerpt">My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Deep Learning and Cross-media Intelligence. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TNN, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
 </div><!-- /.tile -->
 
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <p class="post-excerpt">Recruiting Research students
+I am actively recruiting Post-doc, PhD candidates and Master students. Please contact me via email, if you have good coding and English-writing abilities. Experience in Deep Learning is a good add-on. 
+<br/>
+<br/>
+本课题组长期招收博士后、博士生、硕士生和本科实习生。如果你有不错的编程和英文写作能力，请通过邮件联系我。有深度学习算法研究经验者优先。我会为每位学生安排一名国内外知名年轻学者作为共同导师，联合培养。每位博士生均有出国研修机会。
+本实验室配有超算服务器20余台，高性能GPU近百块，满足大规模机器学习算法模型的训练与测试。另为每个研究生单独配有一台GPU工作站，用于日常程序调试。
+对于想来本课题组实习的本科生，希望能在实验室工作一年以上并保证每周20个小时的工作时间。</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
