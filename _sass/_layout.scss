@@ -235,6 +235,7 @@
 		font-size: 1.375vw;
 		font-family:Arial;
 		margin-bottom: 0px;
+		width: 40vw;
 	}
 	
 	.border-bottom{
@@ -242,6 +243,7 @@
 		width: 1.5625vw;
 		background: #ffb900;
 		margin:0 auto;
+		margin-left: 19vw;
 	}
 	.publications{
 		width:100%;
@@ -265,7 +267,7 @@
 		font-family: Arial;
 	}
 	.right-pubinfo{
-		width: 48.96vw;
+		width: 30vw;
 		margin-left: 1.5625vw;
 		display: inline-block;
 		vertical-align: top;
@@ -274,11 +276,10 @@
 		font-family: Arial;
 	}
 	.publications:hover{
-		background: #464646;
-		color: #f1f1f1;
+		
 	}
 	.publications:hover .left-date{
-		color: #ffb900;
+		
 	}
 
 }
