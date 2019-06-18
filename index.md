@@ -25,9 +25,15 @@ image:
 </div>
 <div class="tiles">
 <br/>
-
+<br/>
+<div class="tiles" style="clear:both">
+  <div class="nullborder"></div>
+  <h3 class="newtitle newnews" style="position:center">Recruiting Research Students</h3>
+</div>
+<div class="tiles">
+<br/>
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt_">Recruiting Research students
+  <p class="post-excerpt_">
 I am actively recruiting Post-doc, PhD candidates and Master students. Please contact me via email, if you have good coding and English-writing abilities. Experience in Deep Learning is a good add-on. 
 <br/>
 <br/>
