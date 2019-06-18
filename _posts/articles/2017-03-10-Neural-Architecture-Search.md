@@ -4,11 +4,15 @@ title: "Neural Architecture Search"
 categories: articles
 modified: 2016-06-01T16:28:11-04:00
 tags: [sample]
+excerpt: "Neural Architecture Search (NAS) is an emerging technique to automatically design neural network structures. We designed a fast NAS method for object detection. The discovered architecture surpasses state-of-the-art object detection models."
 comments: false
 ads: false
 image:
   teaser: research_nas.jpg
 ---
+Neural Architecture Search (NAS) is an emerging technique to automatically design neural network structures. We designed a fast NAS method for object detection. 
+
+The discovered architecture surpasses state-of-the-art object detection models.
 
 We designed a fast NAS method for object detection. The discovered architecture surpasses state-of-the-art object detection models
 

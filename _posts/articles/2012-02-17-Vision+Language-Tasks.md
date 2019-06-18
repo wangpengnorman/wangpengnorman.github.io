@@ -2,13 +2,16 @@
 layout: article
 title: "Vision+Language Tasks"
 categories: articles
-excerpt: "A ton of text to test readability."
+excerpt: "Vision and Language Tasks like image captioning, visual question answering require the understanding of both vision and language information. We are particularly interested in bridging vision, language and knowledge. Several papers were published in TPAMI and CVPR. "
 author: billy_rick
 tags: [sample, readability, test]
 ads: false
 image:
   teaser: research_vqa.jpg
 ---
+Vision and Language Tasks like image captioning, visual question answering require the understanding of both vision and language information. 
+
+We are particularly interested in bridging vision, language and knowledge. Several papers were published in TPAMI and CVPR.
 
 We are particularly interested in bridging vision, language and knowledge. 
 

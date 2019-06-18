@@ -6,25 +6,28 @@ image:
 ---
 <br/>
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt" >I am a Professor in School of Computer Science at Northwestern Polytechnical University, Xi’an, China. I am also with National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China.</p>
+  <p class="post-excerpt_" >I am a Professor in School of Computer Science at Northwestern Polytechnical University, Xi’an, China. I am also with National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China.</p>
+</div><!-- /.tile -->
+
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" >I received a bachelor and a PhD degree at Beihang University, Beijing, China, in 2004 and 2011 respectively; then worked at Fujitsu Beijing R&D center for one year and at University of Adelaide for four years. Since 2017, I have been working as a Professor at Northwestern Polytechnical University. </p>
 </div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt" >I received a bachelor and a PhD degree at Beihang University, Beijing, China, in 2004 and 2011 respectively; then worked at Fujitsu Beijing R&D center for one year and at University of Adelaide for four years. Since 2017, I have been working as a Professor at Northwestern Polytechnical University. </p>
-</div><!-- /.tile -->
-<div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt" >My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Deep Learning and Cross-media Intelligence. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TNN, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
+  <p class="post-excerpt_" >My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Deep Learning and Cross-media Intelligence. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TNN, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
+  <br/>
 </div><!-- /.tile -->
 <br/>
 <br/>
+
 <div class="tiles" style="clear:both">
-  <center>
-  <h3 class="newtitle newnews" style="position:center">NEWS</h3><div class="nullborder"></div></center>
+  <div class="nullborder"></div>
+  <h3 class="newtitle newnews" style="position:center">NEWS</h3>
 </div>
 <div class="tiles">
 <br/>
 
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt">Recruiting Research students
+  <p class="post-excerpt_">Recruiting Research students
 I am actively recruiting Post-doc, PhD candidates and Master students. Please contact me via email, if you have good coding and English-writing abilities. Experience in Deep Learning is a good add-on. 
 <br/>
 <br/>

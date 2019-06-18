@@ -2,13 +2,19 @@
 layout: article
 title: "Image Retrieval and Re-identification"
 categories: articles
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "Instance-level Recognition and Re-identification
+Recognizing object instances of the same category (such as face, person, car) is challenging due to the large intra-instance variation and small inter-instance variation. We constructed a large dataset for vehicle re-identification from aerial view and were top-ranked in related AI competitions.  "
 tags: [sample, readability]
 modified: 2013-06-30
 ads: false
 image:
   teaser: image_retrieval.jpg
 ---
+Instance-level Recognition and Re-identification
+
+Recognizing object instances of the same category (such as face, person, car) is challenging due to the large intra-instance variation and small inter-instance variation. 
+
+We constructed a large dataset for vehicle re-identification from aerial view and were top-ranked in related AI competitions. 
 
 - We were the 3rd place in the fashion product search track of JD AI Fashion-Challenge, ChinaMM, 2018. https://fashion-challenge.github.io/rank.html
 - We won Gold Medal (14/2131, top 1%) in the Kaggle 2019 challenge on humpback whale identification. https://www.kaggle.com/c/humpback-whale-identification/leaderboard
