@@ -246,18 +246,14 @@
 	.publications{
 		width:100%;
 		padding: 1.04vw 0;
-		-webkit-transition: 0.3s;
-		-moz-transition: 0.3s;
-		-ms-transition: 0.3s;
-		-o-transition: 0.3s;
-		transition: 0.3s;
+		
 	}
 	.pub-line{
 		width: 62.5vw;
 		margin: 0 auto;
 	}
 	.publin-gourp{
-		margin-left: 3.9vw;
+		//margin-left: 3.9vw;
 		font-size:0;
 	}
 	.left-date{
@@ -269,20 +265,19 @@
 		font-family: Arial;
 	}
 	.right-pubinfo{
-		width: 48.96vw;
+		width: 32vw;
 		margin-left: 1.5625vw;
 		display: inline-block;
 		vertical-align: top;
-		font-size: 0.9375vw;
+		font-size: 0.8375vw;
 		line-height: 1.85vw;
 		font-family: Arial;
 	}
 	.publications:hover{
-		background: #464646;
-		color: #f1f1f1;
+		
 	}
 	.publications:hover .left-date{
-		color: #ffb900;
+		
 	}
 	
 

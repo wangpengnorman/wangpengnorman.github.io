@@ -13,8 +13,7 @@ share: false
 ---
 <p class="research-title">Working Papers</p>
 <div class="border-bottom"></div>
-<br />
-<br />
+
 <!-- Working Papers -->
 <div class="publications">
     <div class="pub-line">
@@ -46,8 +45,7 @@ share: false
 <br />
 <p class="research-title">Journal Papers</p>
 <div class="border-bottom"></div>
-<br />
-<br />
+
 <!-- Journal Papers -->
 <div class="publications">
     <div class="pub-line">
@@ -149,8 +147,8 @@ share: false
 <br />
 <p class="research-title">Conference Papers</p>
 <div class="border-bottom"></div>
-<br />
-<br />
+
+<!-- Conference Papers -->
 <div class="publications">
     <div class="pub-line">
         <div class="publin-gourp">
