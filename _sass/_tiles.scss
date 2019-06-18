@@ -4,6 +4,8 @@
 
 .tile {
   @include outer-container;
+  font-family: Arial;
+  
   margin-bottom: $gutter;
   @include media($micro) {
     @include fill-parent;
@@ -25,6 +27,8 @@
   }
   .post-excerpt {
     @include font-size(20);
+    margin-bottom: 0px;
+    margin-top: 0px;
   }
   .newtitle{
     font-size: 2.08vw;
@@ -68,9 +72,11 @@
   display: inline;
   font-weight:300;
   font-family: "Source Code Pro";
+ 
 }
 .newnews{
   margin-bottom: 2.85vw;
+  
 }
 .nullborder{
   height: 0.208vw;
