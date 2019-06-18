@@ -253,7 +253,7 @@
 		margin: 0 auto;
 	}
 	.publin-gourp{
-		//margin-left: 3.9vw;
+		margin-left: 3.9vw;
 		font-size:0;
 	}
 	.left-date{
@@ -265,21 +265,21 @@
 		font-family: Arial;
 	}
 	.right-pubinfo{
-		width: 32vw;
+		width: 48.96vw;
 		margin-left: 1.5625vw;
 		display: inline-block;
 		vertical-align: top;
-		font-size: 0.8375vw;
+		font-size: 0.9375vw;
 		line-height: 1.85vw;
 		font-family: Arial;
 	}
 	.publications:hover{
-		
+		background: #464646;
+		color: #f1f1f1;
 	}
 	.publications:hover .left-date{
-		
+		color: #ffb900;
 	}
-	
 
 }
 // page lead
