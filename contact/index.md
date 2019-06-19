@@ -13,4 +13,4 @@ share: false
 ---
 Email: peng.wang@nwpu.edu.cn
 
-Address: School of Computer Science, Northwestern Polytechnical University, Xi'an, Shanxi, China
+Address: School of Computer Science, Northwestern Polytechnical University, Xi'an, Shaanxi, China
