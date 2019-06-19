@@ -24,14 +24,22 @@ image:
 </div><!-- /.tile -->
 <br/>
 <br/>
-
+<!-- news -->
 <div class="tiles" style="clear:both">
   <div class="nullborder"></div>
   <h3 class="newtitle newnews" style="position:center">News</h3>
 </div>
 <div class="tiles">
+<!-- news -->
 <br/>
-<br/>
+<div class="tiles">
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2019/05/28</font> We won the 4th place in Task2.1 "Scene text recognition (Latin only)" of ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text. <a href="http://www.yahoo.com">https://rrc.cvc.uab.es/files/ICDAR2019-ArT1.pdf</a></p>
+</div><!-- /.tile -->
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2019/05/18</font> We won the 1st place in the Task2 "Text Line Recognition in the Signboard" of ICDAR 2019 Robust Reading Challenge on Reading Chinese Text on Signboard, jointly with South China University of Technology and University of Adelaide. <a href="https://rrc.cvc.uab.es/files/ICDAR2019-ReCTS.pdf">https://rrc.cvc.uab.es/files/ICDAR2019-ReCTS.pdf</a></p>
+</div><!-- /.tile -->
+<!-- Recruiting Research Students -->
 <div class="tiles" style="clear:both">
   <div class="nullborder"></div>
   <h3 class="newtitle newnews" style="position:center">Recruiting Research Students</h3>

@@ -19,6 +19,15 @@ share: false
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2019</div>
+            <div class="right-pubinfo"> Hui Li, Peng Wang, Chunhua Shen, <b>Towards End-to-End Text Spotting in Natural Scenes</b>, arXiv: 1906.06013, 2019 </div>
+        </div>
+    </div>
+</div>
+
+<div class="publications">
+    <div class="pub-line">
+        <div class="publin-gourp">
+            <div class="left-date">2019</div>
             <div class="right-pubinfo"> Ning Wang, Yang Gao, Hao Chen, Peng Wang, Zhi Tian, Chunhua Shen, <b>NAS-FCOS: Fast Neural Architecture Search for Object Detection</b>, arXiv: 1906.04423v1, 2019 </div>
         </div>
     </div>
