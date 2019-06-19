@@ -157,7 +157,7 @@
 			// larger font for intro paragraph
 			> p {
 				&:first-child {
-					@include font-size(20,yes,30);
+					@include font-size(20,yes,40);
 				}
 				//word-break:break-all;
 				//word-wrap:break-word;

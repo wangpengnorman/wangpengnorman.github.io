@@ -9,9 +9,6 @@ ads: false
 image:
   teaser: research_vqa.jpg
 ---
-Vision and Language Tasks like image captioning, visual question answering require the understanding of both vision and language information. 
-
-We are particularly interested in bridging vision, language and knowledge. Several papers were published in TPAMI and CVPR.
 
 We are particularly interested in bridging vision, language and knowledge. 
 

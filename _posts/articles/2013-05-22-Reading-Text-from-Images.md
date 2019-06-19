@@ -8,9 +8,6 @@ ads: false
 image:
   teaser: research_text.png
 ---
-Text in natural scene images contains rich semantic information that is crucial for visual understanding and reasoning. 
-
-Although OCR has been studied extensively, reading irregular text of arbitrary shape is still a challenging task. Some of our work was published in ICCV and AAAI.
 
 - We proposed an end-to-end trainable network for joint text detection and recognition. This is one of the first works that put text detection and recognition into a single framework. 
 

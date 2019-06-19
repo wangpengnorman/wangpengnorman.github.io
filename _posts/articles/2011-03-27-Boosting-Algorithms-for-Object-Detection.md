@@ -9,9 +9,6 @@ excerpt: "Several boosting algorithms were designed specifically for fast object
 image:
   teaser: research_boosting1.png
 ---
-Several boosting algorithms were designed specifically for fast object detection. 
-
-Our studies on boosting algorithms were from a new perspective, i.e., the dual formation of boosting algorithms.
 
 Several totally-corrective boosting algorithms are designed specifically for face and pedestrian detection. 
 {% include toc.html %}

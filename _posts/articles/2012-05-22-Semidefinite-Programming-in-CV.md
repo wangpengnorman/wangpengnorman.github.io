@@ -9,10 +9,6 @@ excerpt: "A variety of CV problems can be formulated as Binary Quadratic Problem
 image:
   teaser: research_sdp.png
 ---
-A variety of CV problems can be formulated as Binary Quadratic Problems (BQP), such as segmentation, image registration/matching and image denoising/restoration. 
-
-We developed several fast and accurate BQP solvers based on semidefinite programming (SDP) relaxation. Details can be found in our publications in TPAMI, IJCV and CVPR. 
-
 We proposed several fast Semidefinite Programming (SDP) algorithms are proposed to solve large-scale binary quadratic problems in vision applications.
 
 <u>Related work:<u/>
