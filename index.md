@@ -5,6 +5,12 @@ image:
   feature: wood-texture-1600x800.jpg
 ---
 <br/>
+<div class="tiles" style="clear:both">
+  <div class="nullborder"></div>
+  <h3 class="newtitle newnews" style="position:center">About Me</h3>
+</div>
+<div class="tiles">
+<br/>
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" >I am a Professor in School of Computer Science at Northwestern Polytechnical University, Xi’an, China. I am also with National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China.</p>
 </div><!-- /.tile -->
@@ -21,7 +27,7 @@ image:
 
 <div class="tiles" style="clear:both">
   <div class="nullborder"></div>
-  <h3 class="newtitle newnews" style="position:center">NEWS</h3>
+  <h3 class="newtitle newnews" style="position:center">News</h3>
 </div>
 <div class="tiles">
 <br/>

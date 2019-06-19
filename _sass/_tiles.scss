@@ -19,7 +19,7 @@
     color: lighten($text-color,25);
   }
   .post-title {
-    @include font-size(18,no);
+    @include font-size(23,no);
   }
   .post-title :hover{
     background: #464646;

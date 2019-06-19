@@ -13,7 +13,7 @@ image:
 
     <u>Related work:<u/>
 
-    &radic; &nbsp; &nbsp; H. Li*, P. Wang*, C. Shen. **Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks**. In: ICCV, 2017.
+    &radic; &nbsp; &nbsp; H. Li, P. Wang, C. Shen. **Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks**. In: ICCV, 2017.
 
     &radic; &nbsp; &nbsp; H. Li, P. Wang#, C. Shen. **Toward End-to-end Car License Plate Detection and Recognition with Deep Neural Networks**. In: TITS, 2018.
 
@@ -21,7 +21,7 @@ image:
 
     <u>Related work:<u/>
 
-	&radic; &nbsp; &nbsp; H. Li*, P. Wang*, C. Shen, G. Zhang. **Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition**. In: AAAI, 2019.
+	&radic; &nbsp; &nbsp; H. Li, P. Wang, C. Shen, G. Zhang. **Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition**. In: AAAI, 2019.
 
     &radic; &nbsp; &nbsp; P. Wang, L. Yang, H. Li, Y. Deng, C. Shen, Y. Zhang. **A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition**. In: arXiv:1904.01375, 2019
 
