@@ -12,11 +12,11 @@ image:
 <div class="tiles">
 <br/>
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <h3 class="post-excerpt_" >I am a Professor in School of Computer Science at Northwestern Polytechnical University, Xi’an, China. I am also with National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China.</h3>
+  <p class="post-excerpt_" >I am a Professor in School of Computer Science at Northwestern Polytechnical University, Xi’an, China. I am also with National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology, China.</p>
 </div><!-- /.tile -->
 
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <h3 class="post-excerpt_" >I received a bachelor and a PhD degree at Beihang University, Beijing, China, in 2004 and 2011 respectively; then worked at Fujitsu Beijing R&D center for one year and at University of Adelaide for four years. Since 2017, I have been working as a Professor at Northwestern Polytechnical University. </h3>
+  <p class="post-excerpt_" >I received a bachelor and a PhD degree at Beihang University, Beijing, China, in 2004 and 2011 respectively; then worked at Fujitsu Beijing R&D center for one year and at University of Adelaide for four years. Since 2017, I have been working as a Professor at Northwestern Polytechnical University. </p>
 </div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" >My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Deep Learning and Cross-media Intelligence. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TNNLS, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
