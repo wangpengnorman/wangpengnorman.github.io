@@ -7,7 +7,7 @@ image:
 <br/>
 <div class="tiles" style="clear:both">
   <div class="nullborder"></div>
-  <h3 class="newtitle newnews" style="position:center">About Me</h3>
+  <h3 class="newtitle_newnews" style="margin-top: 0;">About Me</h3>
 </div>
 <div class="tiles">
 <br/>
@@ -27,14 +27,14 @@ image:
 
 <div class="tiles" style="clear:both">
   <div class="nullborder"></div>
-  <h3 class="newtitle newnews" style="position:center">News</h3>
+  <h3 class="newtitle_newnews" style="margin-top: 0;">News</h3>
 </div>
 <div class="tiles">
 <br/>
 <br/>
 <div class="tiles" style="clear:both">
   <div class="nullborder"></div>
-  <h3 class="newtitle newnews" style="position:center">Recruiting Research Students</h3>
+  <h3 class="newtitle_newnews" style="margin-top: 0;">Recruiting Research Students</h3>
 </div>
 <div class="tiles">
 <br/>
