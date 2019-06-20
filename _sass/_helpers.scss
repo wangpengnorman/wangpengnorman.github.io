@@ -2,6 +2,10 @@
    Helpers and Utility Classes
    ========================================================================== */
 
+.wrap_ {
+  @include outer-container;
+  margin-left: 8vw;
+}
 .wrap {
   @include outer-container;
 }
