@@ -16,6 +16,11 @@
 	}
 	.inner-wrap {
 		@include outer-container;
+		//@include fill-parent;
+	}
+	.inner-wrap_ {
+		//@include outer-container;
+		@include fill-parent;
 	}
 }
 .site-title {
