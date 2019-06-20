@@ -14,11 +14,13 @@ We are particularly interested in bridging vision, language and knowledge. Have 
 
 <u>Related work:</u>
 
+&radic; &nbsp; &nbsp; H. Li, P. Wang, C. Shen, A. van den Hengel. **Visual Question Answering as Reading Comprehension**. In: CVPR, 2019.
+
 &radic; &nbsp; &nbsp; P. Wang, Q. Wu, C. Shen, A. Dick, A. van den Hengel. **FVQA: Fact-based Visual Question Answering**. In: TPAMI, 2018.
 
-&radic; &nbsp; &nbsp; Q. Wu, C. Shen, P. Wang, A. Dick, A. van den Hengel. **Image Captioning and Visual Question Answering based on Attributes and External Knowledge**. In: TPAMI, 2017.
-
 &radic; &nbsp; &nbsp; Q. Wu, P. Wang, C. Shen, I. Reid, A. van den Hengel. **Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning**. In: CVPR, 2018.
+
+&radic; &nbsp; &nbsp; Q. Wu, C. Shen, P. Wang, A. Dick, A. van den Hengel. **Image Captioning and Visual Question Answering based on Attributes and External Knowledge**. In: TPAMI, 2017.
 
 &radic; &nbsp; &nbsp; P. Wang, Q. Wu, C. Shen, A. van den Hengel. **The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions**. In: CVPR, 2017.
 

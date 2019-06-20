@@ -17,7 +17,7 @@ image:
 
     &radic; &nbsp; &nbsp; H. Li, P. Wang#, C. Shen. **Toward End-to-end Car License Plate Detection and Recognition with Deep Neural Networks**. In: TITS, 2018.
 
-- We proposed two simple irregular text recognizers based on encoder-decoder frameworks and 2d-attention mechanisms. These two models serve as part of the model ensemble that won the 1st place in the Task2 (Text Line Recognition in the Signboard) of ICDAR 2019 Robust Reading Challenge on Reading Chinese Text on Signboard. <a href="https://rrc.cvc.uab.es/files/ICDAR2019-ReCTS.pdf">leaderboard</a>  
+- We proposed two simple irregular text recognizers based on encoder-decoder frameworks and 2d-attention mechanisms. These two models serve as part of the model ensemble that won the 1st place in the Task2 (Text Line Recognition in the Signboard) of ICDAR 2019 Robust Reading Challenge on Reading Chinese Text on Signboard. <a href="https://rrc.cvc.uab.es/files/ICDAR2019-ReCTS.pdf">leaderboard</a>, <a href="https://github.com/wangpengnorman/SAR-Strong-Baseline-for-Text-Recognition">code</a>   
 
     <u>Related work:<u/>
 
