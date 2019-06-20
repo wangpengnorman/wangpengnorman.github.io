@@ -68,7 +68,7 @@ share: false
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2018</div>
-            <div class="right-pubinfo"> Peng Wang*, Qi Wu*, Chunhua Shen, Anthony Dick, Anton van den Hengel. <b>FVQA: Fact-based Visual Question Answering</b>. In: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)，2018.
+            <div class="right-pubinfo"> Peng Wang*, Qi Wu*, Chunhua Shen, Anthony Dick, Anton van den Hengel. <b>FVQA: Fact-based Visual Question Answering</b>. In: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2018.   <a href="https://www.dropbox.com/s/iyz6l7jhbt6jb7q/new_dataset_release.zip?dl=0"><u class="dotted">dataset</u></a> 
         </div>
     </div>
 </div>
@@ -170,7 +170,7 @@ share: false
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2019</div>
-            <div class="right-pubinfo"> Hui Li*, Peng Wang*, Chunhua Shen, Guyu Zhang. <b>Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition</b>. In: AAAI Conference on Artificial Intelligence (AAAI), 2019.
+            <div class="right-pubinfo"> Hui Li*, Peng Wang*, Chunhua Shen, Guyu Zhang. <b>Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition</b>. In: AAAI Conference on Artificial Intelligence (AAAI), 2019.  <a href="https://github.com/wangpengnorman/SAR-Strong-Baseline-for-Text-Recognition"><u class="dotted">code</u></a> 
         </div>
     </div>
 </div>
@@ -194,7 +194,7 @@ share: false
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2017</div>
-            <div class="right-pubinfo"> Peng Wang*, Qi Wu*, Chunhua Shen, Anton van den Hengel. <b>The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions.</b> In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+            <div class="right-pubinfo"> Peng Wang*, Qi Wu*, Chunhua Shen, Anton van den Hengel. <b>The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions.</b> In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.  <a href="http://demo.cs.adelaide.edu.au/"><u class="dotted">demo</u></a>  
         </div>
     </div>
 </div>
@@ -226,7 +226,7 @@ share: false
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2013</div>
-            <div class="right-pubinfo"> Peng Wang, Chunhua Shen, Anton van den Hengel. <b>A Fast Semidefinite Approach to Solving Binary Quadratic Problems</b>. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013.
+            <div class="right-pubinfo"> Peng Wang, Chunhua Shen, Anton van den Hengel. <b>A Fast Semidefinite Approach to Solving Binary Quadratic Problems</b>. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013. <a href="https://github.com/wangpengnorman/FastSDPCut"><u class="dotted">code</u></a>   
         </div>
     </div>
 </div>

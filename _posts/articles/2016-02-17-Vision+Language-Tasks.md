@@ -2,7 +2,7 @@
 layout: article
 title: "Vision+Language Tasks"
 categories: articles
-excerpt: "Vision and Language Tasks like image captioning, visual question answering require the understanding of both vision and language information. We are particularly interested in bridging vision, language and knowledge. Several papers were published in TPAMI and CVPR. "
+excerpt: "Vision and Language Tasks like image captioning, visual question answering require the understanding of both vision and language information. We are particularly interested in bridging vision, language and knowledge. Several papers were published in TPAMI and CVPR."
 author: billy_rick
 tags: [sample, readability, test]
 ads: false
@@ -10,7 +10,7 @@ image:
   teaser: research_vqa.jpg
 ---
 
-We are particularly interested in bridging vision, language and knowledge. 
+We are particularly interested in bridging vision, language and knowledge. Have a check of our <a href="http://demo.cs.adelaide.edu.au/">VQA demo</a> and <a href="https://www.dropbox.com/s/iyz6l7jhbt6jb7q/new_dataset_release.zip?dl=0">FVQA dataset</a>.
 
 <u>Related work:</u>
 
