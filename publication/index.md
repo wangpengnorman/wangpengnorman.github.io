@@ -28,7 +28,7 @@ share: false
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2019</div>
-            <div class="right-pubinfo"> Ning Wang, Yang Gao, Hao Chen, Peng Wang, Zhi Tian, Chunhua Shen, <b>NAS-FCOS: Fast Neural Architecture Search for Object Detection</b>, arXiv: 1906.04423v1, 2019 </div>
+            <div class="right-pubinfo"> Ning Wang, Yang Gao, Hao Chen, Peng Wang, Zhi Tian, Chunhua Shen, <b>NAS-FCOS: Fast Neural Architecture Search for Object Detection</b>, arXiv: 1906.04423v1, 2019. <a href="https://github.com/Lausannen/NAS-FCOS"><u class="dotted">model</u></a> </div>
         </div>
     </div>
 </div>
