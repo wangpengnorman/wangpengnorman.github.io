@@ -4,11 +4,22 @@
 
 .tile {
   @include outer-container;
-  
+  clear:both ;
+  position:relative;
+  left:10%;
   margin-bottom: 10px;
   //margin-bottom: $gutter;
   @include media($micro) {
-    @include fill-parent;
+    // // @include fill-parent;
+    // // float: left;
+    // // display:block;
+    // font-size: 10em;
+    // @include span-columns(4);
+    float: left;
+    display: block;
+    margin-right: 2%;
+    width: 80%;
+    margin-bottom:0px;
   }
   @include media(new-breakpoint(min-width em(480) 12)) {
     @include span-columns(15);
@@ -30,6 +41,7 @@
     float:left;
   }
   .post-excerpt {
+    
     @include font-size(18);
     margin-bottom: 0px;
     margin-top: 10px;
@@ -37,6 +49,10 @@
     overflow: hidden;
   }
   .post-excerpt_ {
+    @include media($micro) {
+      font-size:1em;
+      line-height: 5vw;
+    }
     @include font-size(20);
     margin-bottom: 0px;
     margin-top: 0px;

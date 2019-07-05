@@ -8,8 +8,8 @@
 
 #masthead {
 	padding: $gutter;
-	z-index: 5;
-	@include transform(translate(0,0));
+	z-index: 5;//设置元素的堆叠顺序
+	@include transform(translate(0,0));//该元素的位置为(0,0)
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
 	&.slide {
 		@include transform(translate(-1600px,0));
@@ -24,9 +24,13 @@
 	}
 }
 .site-title {
-	@include row;
+	@include row;//在此元素后插入新内容
 	@include media($large) {
 		@include span-columns(4);
+	}
+	@include media($micro) {
+		@include span-columns(0.1);
+		font-size:1em;
 	}
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
 	height: $masthead-height;
