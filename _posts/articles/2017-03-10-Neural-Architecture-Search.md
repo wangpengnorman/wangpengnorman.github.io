@@ -8,7 +8,7 @@ excerpt: "Neural Architecture Search (NAS) is an emerging technique to automatic
 comments: false
 ads: false
 image:
-  teaser: research_nas.jpg
+  teaser: 1.mp4
 ---
 
 We designed a fast NAS method for object detection. The discovered architecture surpasses state-of-the-art object detection models
