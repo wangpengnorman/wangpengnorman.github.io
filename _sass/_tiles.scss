@@ -6,22 +6,26 @@
   @include outer-container;
   clear:both ;
   position:relative;
-  left:10%;
-  margin-bottom: 10px;
+  left:9.2%;//将此模块的left：100px改为相对距离 modified by liqiang&leitao 2019/07/05
+  margin-bottom: 1%;//改为相对值 modified by liqiang&leitao 2019/07/08
   //margin-bottom: $gutter;
+  //进行媒体查询“手机”，修改页面整体布局   modified by liqiang&leitao 2019/07/05
   @include media($micro) {
-    // // @include fill-parent;
-    // // float: left;
-    // // display:block;
-    // font-size: 10em;
-    // @include span-columns(4);
     float: left;
     display: block;
     margin-right: 2%;
-    width: 80%;
-    margin-bottom:0px;
+    width: 90%;
+    margin-bottom: 2.5%;
   }
-  @include media(new-breakpoint(min-width em(480) 12)) {
+  //进行媒体查询“ipad”，修改页面整体布局   modified by liqiang&leitao 2019/07/08
+  @include media(new-breakpoint(min-width em(480) max-width em(1280)12)) {
+    float: left;
+    display: block;
+    margin-right: 2%;
+    width: 90%;
+    margin-bottom: 1%;
+  }
+  @include media($large) {
     @include span-columns(15);
     @include omega(4n);
   }
@@ -49,9 +53,15 @@
     overflow: hidden;
   }
   .post-excerpt_ {
+    //媒体查询，修改页面显示字体大小 modified by liqiang&leitao 2019/07/05
     @include media($micro) {
-      font-size:1em;
-      line-height: 5vw;
+      font-size:1.2em;
+      line-height: 7vw;
+    }
+    //进行媒体查询“ipad”，修改页面整体布局   modified by liqiang&leitao 2019/07/08
+    @include media(new-breakpoint(min-width em(480) max-width em(1280) 12)) {
+      font-size:1.2em;
+      line-height: 4vw;
     }
     @include font-size(20);
     margin-bottom: 0px;
