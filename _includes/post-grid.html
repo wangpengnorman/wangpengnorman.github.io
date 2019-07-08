@@ -1,4 +1,4 @@
-<article class="tile" itemscope itemtype="http://schema.org/Article">
+<article class="tile_post" itemscope itemtype="http://schema.org/Article">
   
 <div class="post-title111">
   {% if post.video %}
@@ -11,8 +11,8 @@
   {% endif %}
 </div>
 
-  <div class="post-title111">  <!-- /.tile -->
- <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+  <div class="post-title112">  <!-- /.tile -->
+  <h2 class="post-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
   <p class="post-excerpt" itemprop="description">{{ post.excerpt | strip_html | truncate: 500 }}</p></div>
   
 </article><!-- /.tile -->
