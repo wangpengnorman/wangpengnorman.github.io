@@ -3,7 +3,7 @@
 <div class="post-title111">
   {% if post.image.teaser contains "mp4" %}
   <!-- <iframe src="//player.bilibili.com/player.html?aid=53742823&cid=94007924&page=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true" width="80%" > </iframe>  -->
-  <iframe width="80%"  src="http://player.youku.com/embed/XMTc3NzUxMzU0OA==" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"  sandbox="allow-scripts"  ></iframe>  
+  <iframe width="80%"  src="https://player.youku.com/embed/XMTc3NzUxMzU0OA==" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"  ></iframe>  
   {% else %}
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"  class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
       {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
