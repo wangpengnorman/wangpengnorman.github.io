@@ -15,7 +15,6 @@ image:
 video: https://player.youku.com/embed/XMTc3NzUxMzU0OA==
 # video:
 ---
-
 We designed a fast NAS method for object detection. The discovered architecture surpasses state-of-the-art object detection models
 
 (such as Faster R-CNN, RetinaNet and FCOS) by 1 to 1.9 points in AP on the COCO dataset.

@@ -10,7 +10,6 @@ image:
   teaser: research_boosting1.png
 video:
 ---
-
 Several totally-corrective boosting algorithms are designed specifically for face and pedestrian detection. 
 {% include toc.html %}
 

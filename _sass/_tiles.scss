@@ -52,7 +52,7 @@
   .post-excerpt_ {
     //媒体查询，修改页面显示字体大小 modified by liqiang&leitao 2019/07/05
     @include media($micro) {
-      font-size:1.2em;
+      font-size:1.2em; 
       line-height: 7vw;
     }
     //进行媒体查询“ipad”，修改页面整体布局   modified by liqiang&leitao 2019/07/08

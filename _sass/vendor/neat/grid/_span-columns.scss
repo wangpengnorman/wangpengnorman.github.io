@@ -2,6 +2,7 @@
   $columns: nth($span, 1);
   $container-columns: container-span($span);
 
+
   // Set nesting context (used by shift())
   $parent-columns: get-parent-columns($container-columns) !global;
 
