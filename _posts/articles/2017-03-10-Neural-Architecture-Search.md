@@ -12,7 +12,8 @@ ads: false
 # modified by liqiang&leitao 2019/07/08
 image:
   teaser: research_nas.jpg 
-video: https://player.youku.com/embed/XMTc3NzUxMzU0OA==
+video: https://player.youku.com/embed/XNDE5Nzc1MDY4MA==
+
 # video:
 ---
 We designed a fast NAS method for object detection. The discovered architecture surpasses state-of-the-art object detection models

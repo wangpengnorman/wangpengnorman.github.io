@@ -158,6 +158,17 @@
       width:500px;
       float:left;
     }
+    ._video{
+      @include media($micro) {
+        width: 100%;
+      }
+      @include media(new-breakpoint(min-width em(480) max-width em(1280)12)) {
+        width: 100%;
+      }
+      @include media($large) {
+        width:80%;
+      }
+    }
     
   }
   .post-title112 {

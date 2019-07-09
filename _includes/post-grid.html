@@ -3,8 +3,7 @@
 <div class="post-title111">
   {% if post.video %}
   <!-- 先判断是否是视频，若是视频，则插入视频 -->
-  <!-- <iframe src="//player.bilibili.com/player.html?aid=53742823&cid=94007924&page=1" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true" width="80%" > </iframe>  -->
-  <iframe width="80%" src="{{ post.video }}" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"  ></iframe>  
+  <iframe class="_video" src="{{ post.video }}" scrolling="no"  frameborder="no" framespacing="0" allowfullscreen="true"  ></iframe>  
   {% else %}
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"  class="post-teaser">{% if post.image.teaser %}<img src="{{ site.url }}/images/{{ post.image.teaser }}" alt="teaser" itemprop="image">
       {% else %}<img src="{{ site.url }}/images/{{ site.teaser }}" alt="teaser" itemprop="image">{% endif %}</a>
