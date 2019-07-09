@@ -298,8 +298,19 @@
     margin: 0 auto;
   }
   .publin-gourp {
-    margin-left: 3.9vw;
-    font-size: 0;
+    @include media($micro) {
+      margin-left: -2vw;
+      font-size: 0;
+    }
+    @include media(new-breakpoint(min-width em(480) max-width em(1280) 12)) {
+      margin-left: -2vw;
+      font-size: 0;
+    }
+    @include media($large) {
+      margin-left: 6vw;
+      font-size: 0;
+    }
+    
   }
   .left-date {
     //------ modified by liqiang&leitao 2019/07/08 ------//
@@ -331,7 +342,7 @@
     //------ modified by liqiang&leitao 2019/07/08 ------//
     //媒体查询，修改页面显示字体大小
     @include media($micro) {
-      width: 50vw;
+      width: 60vw;
       margin-left: 1.5625vw;
       font-size: 0.94rem;
       line-height: 7vw;
@@ -341,7 +352,7 @@
     }
     //进行媒体查询“ipad”，修改页面整体布局
     @include media(new-breakpoint(min-width em(480) max-width em(1280) 12)) {
-      width: 50vw;
+      width: 60vw;
       margin-left: 1.5625vw;
       font-size: 0.94rem;
       line-height: 4vw;
@@ -353,7 +364,7 @@
 
     width: 50vw;
     // margin-left: 1.5625vw;
-    margin-left: 8.5vw;
+    margin-left: 6vw;
 
     display: inline-block;
     vertical-align: top;
