@@ -34,10 +34,13 @@ image:
 <br/>
 <div class="tiles">
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt_" > <font color="blue">2019/07/25</font> 我在中国图象图形学学会“青年科学家论坛”作特邀报告：文本图像读取和图像语义理解。 </p>
+  <p class="post-excerpt_" > <font color="blue">2019/07/25</font> 受邀参加CSIG“青年科学家论坛”，并作报告：“文本图像读取和图像语义理解”。 </p>
 </div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" > <font color="blue">2019/07/23</font> One paper accepted by ICCV 2019.</p>
+</div><!-- /.tile -->
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2019/06/10</font> 受邀参加CCF-CV走进高校——“计算机视觉前沿技术及应用”报告会，并做题为“图像语义理解与视觉问答”的报告</p>
 </div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" > <font color="blue">2019/05/28</font> Our team was the 4th place in Task2.1 "Scene text recognition (Latin only)" of ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text. <a href="https://rrc.cvc.uab.es/files/ICDAR2019-ArT1.pdf">leaderboard</a></p>
@@ -52,6 +55,12 @@ image:
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" > <font color="blue">2018/12/03</font> I co-organized an ACCV 2018 workshop on "Combining Vision and Language". <a href="http://qi-wu.me/accv_v2l/home.html">link</a></p>
 </div>
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2018/11/18</font> 参加CSIG多媒体智能分析前沿论坛，担任学术沙龙主席并做报告：“场景文字检测与识别方向上的探索”。</p>
+</div><!-- /.tile -->
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2018/11/17</font> 受邀参加CCF-CV走进高校系列报告会，并做报告：“先见之明与他山之石——大数据时代下知识迁移的探索与实践”。</p>
+</div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" > <font color="blue">2018/09/01</font> We were the 3rd place in the fashion product search track of JD AI Fashion-Challenge, ChinaMM, 2018. <a href="https://fashion-challenge.github.io/rank.html">leaderboard</a>  </p>
 </div><!-- /.tile -->
