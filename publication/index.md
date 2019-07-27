@@ -152,7 +152,7 @@ share: false
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2019</div>
-            <div class="right-pubinfo"> Peng Wang, Bingliang Jiao, Lu Yang, Yifei Yang, Shizhou Zhang, Wei Wei, Yanning Zhang. <b>Vehicle Re-identification in Aerial Imagery: Dataset and Approach</b>. ICCV, 2019. Accepted
+            <div class="right-pubinfo"> Peng Wang, Bingliang Jiao, Lu Yang, Yifei Yang, Shizhou Zhang, Wei Wei, Yanning Zhang. <b>Vehicle Re-identification in Aerial Imagery: Dataset and Approach</b>. In: Proceedings of the International Conference on Computer Vision (ICCV), 2019. Accepted
         </div>
     </div>
 </div>
@@ -184,7 +184,7 @@ share: false
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2017</div>
-            <div class="right-pubinfo"> Hui Li*, Peng Wang*, Chunhua Shen. <b>Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks</b>. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (ICCV), 2017.
+            <div class="right-pubinfo"> Hui Li*, Peng Wang*, Chunhua Shen. <b>Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks</b>. In: Proceedings of the International Conference on Computer Vision (ICCV), 2017.
         </div>
     </div>
 </div>
