@@ -7,8 +7,8 @@ tags: [sample, images, test]
 ads: false
 image:
   teaser: research_text.png
+video:
 ---
-
 - We proposed an end-to-end trainable network for joint text detection and recognition. This is one of the first works that put text detection and recognition into a single framework. 
 
     <u>Related work:<u/>

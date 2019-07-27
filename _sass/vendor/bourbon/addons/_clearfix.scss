@@ -12,10 +12,10 @@
 //    }
 
 @mixin clearfix {
-  &:after {
+  &:after {//在该元素后插入新内容
     content:"";
-    display:table;
-    clear:both;
+    display:table;//此元素会作为块级表格来显示
+    clear:both;//在左右两侧均不允许浮动元素。
   }
 }
 

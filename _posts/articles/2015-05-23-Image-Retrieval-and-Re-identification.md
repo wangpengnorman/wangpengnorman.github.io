@@ -9,6 +9,7 @@ modified: 2018-06-30
 ads: false
 image:
   teaser: image_retrieval.jpg
+video:
 ---
 
 - We were the 3rd place in the fashion product search track of JD AI Fashion-Challenge, ChinaMM, 2018. <a href="https://fashion-challenge.github.io/rank.html">leaderboard</a>  

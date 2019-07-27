@@ -8,8 +8,8 @@ tags: [sample, readability, test]
 ads: false
 image:
   teaser: research_vqa.jpg
+video:
 ---
-
 We are particularly interested in bridging vision, language and knowledge. Have a check of our <a href="http://demo.cs.adelaide.edu.au/">VQA demo</a> and <a href="https://www.dropbox.com/s/iyz6l7jhbt6jb7q/new_dataset_release.zip?dl=0">FVQA dataset</a>.
 
 <u>Related work:</u>

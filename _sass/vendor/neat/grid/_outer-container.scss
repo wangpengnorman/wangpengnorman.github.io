@@ -1,5 +1,5 @@
 @mixin outer-container {
-  @include clearfix;
+  @include clearfix;//插入新元素并清除浮动
   max-width: $max-width;
   margin: {
     left: auto;

@@ -17,7 +17,9 @@
 
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="blank" />
     <meta http-equiv="cleartype" content="on">
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
@@ -34,7 +36,7 @@
     {% include navigation-sliding.html %}
 
     {% if page.image.feature %}
-    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }});">
       <div class="wrap page-lead-content">
         <h1>Peng Wang</h1>
         <!-- <a href="{{ site.url }}/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/skinny-bones-jekyll" class="btn-inverse">View on GitHub</a> -->

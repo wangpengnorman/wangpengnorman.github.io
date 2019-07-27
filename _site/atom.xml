@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-09T14:29:37+08:00</updated><id>http://localhost:4000/atom.xml</id><title type="html">Peng Wang</title><subtitle>This is a description of my awesome site.</subtitle><entry><title type="html">Neural Architecture Search</title><link href="http://localhost:4000/articles/Neural-Architecture-Search/" rel="alternate" type="text/html" title="Neural Architecture Search" /><published>2017-03-10T00:00:00+08:00</published><updated>2017-03-10T00:00:00+08:00</updated><id>http://localhost:4000/articles/Neural-Architecture-Search</id><content type="html" xml:base="http://localhost:4000/articles/Neural-Architecture-Search/">&lt;p&gt;We designed a fast NAS method for object detection. The discovered architecture surpasses state-of-the-art object detection models&lt;/p&gt;
+
+&lt;p&gt;(such as Faster R-CNN, RetinaNet and FCOS) by 1 to 1.9 points in AP on the COCO dataset.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Related paper:&lt;u&gt;&lt;/u&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;√     N. Wang, Y. Gao, H. Chen, P. Wang, Z. Tian, C. Shen. &lt;strong&gt;NAS-FCOS: Fast Neural Architecture Search for Object Detection&lt;/strong&gt;. In: arXiv 1906.04423, 2019. &lt;a href=&quot;https://github.com/Lausannen/NAS-FCOS&quot;&gt;model&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="sample" /><summary type="html">Neural Architecture Search (NAS) is an emerging technique to automatically design neural network structures. We designed a fast NAS method for object detection. The discovered architecture surpasses state-of-the-art object detection models.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22research_nas.jpg%22%7D" /></entry><entry><title type="html">Vision+Language Tasks</title><link href="http://localhost:4000/articles/Vision+Language-Tasks/" rel="alternate" type="text/html" title="Vision+Language Tasks" /><published>2016-02-17T00:00:00+08:00</published><updated>2016-02-17T00:00:00+08:00</updated><id>http://localhost:4000/articles/Vision+Language-Tasks</id><content type="html" xml:base="http://localhost:4000/articles/Vision+Language-Tasks/">&lt;p&gt;We are particularly interested in bridging vision, language and knowledge. Have a check of our &lt;a href=&quot;http://demo.cs.adelaide.edu.au/&quot;&gt;VQA demo&lt;/a&gt; and &lt;a href=&quot;https://www.dropbox.com/s/iyz6l7jhbt6jb7q/new_dataset_release.zip?dl=0&quot;&gt;FVQA dataset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Related work:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;√     H. Li, P. Wang, C. Shen, A. van den Hengel. &lt;strong&gt;Visual Question Answering as Reading Comprehension&lt;/strong&gt;. In: CVPR, 2019.&lt;/p&gt;
+
+&lt;p&gt;√     P. Wang, Q. Wu, C. Shen, A. Dick, A. van den Hengel. &lt;strong&gt;FVQA: Fact-based Visual Question Answering&lt;/strong&gt;. In: TPAMI, 2018.&lt;/p&gt;
+
+&lt;p&gt;√     Q. Wu, P. Wang, C. Shen, I. Reid, A. van den Hengel. &lt;strong&gt;Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning&lt;/strong&gt;. In: CVPR, 2018.&lt;/p&gt;
+
+&lt;p&gt;√     Q. Wu, C. Shen, P. Wang, A. Dick, A. van den Hengel. &lt;strong&gt;Image Captioning and Visual Question Answering based on Attributes and External Knowledge&lt;/strong&gt;. In: TPAMI, 2017.&lt;/p&gt;
+
+&lt;p&gt;√     P. Wang, Q. Wu, C. Shen, A. van den Hengel. &lt;strong&gt;The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions&lt;/strong&gt;. In: CVPR, 2017.&lt;/p&gt;
+
+&lt;p&gt;√     P. Wang, Q. Wu, C. Shen, A. van den Hengel, A. Dick. &lt;strong&gt;Explicit Knowledge-based Reasoning for Visual Question Answering&lt;/strong&gt;. In: IJCAI, 2017.&lt;/p&gt;
+
+&lt;p&gt;√     Q. Wu, P. Wang, C. Shen, A. Dick, A. van den Hengel. &lt;strong&gt;Ask Me Anything: Free-form Visual Question Answering based on Knowledge from External Sources&lt;/strong&gt;. In: CVPR, 2016.&lt;/p&gt;</content><author><name>billy_rick</name></author><category term="sample" /><category term="readability" /><category term="test" /><summary type="html">Vision and Language Tasks like image captioning, visual question answering require the understanding of both vision and language information. We are particularly interested in bridging vision, language and knowledge. Several papers were published in TPAMI and CVPR.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22research_vqa.jpg%22%7D" /></entry><entry><title type="html">Instance-level Recognition and Re-identification</title><link href="http://localhost:4000/articles/Image-Retrieval-and-Re-identification/" rel="alternate" type="text/html" title="Instance-level Recognition and Re-identification" /><published>2015-05-23T00:00:00+08:00</published><updated>2015-05-23T00:00:00+08:00</updated><id>http://localhost:4000/articles/Image-Retrieval-and-Re-identification</id><content type="html" xml:base="http://localhost:4000/articles/Image-Retrieval-and-Re-identification/">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We were the 3rd place in the fashion product search track of JD AI Fashion-Challenge, ChinaMM, 2018. &lt;a href=&quot;https://fashion-challenge.github.io/rank.html&quot;&gt;leaderboard&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We won Gold Medal (14/2131, top 1%) in the Kaggle 2019 challenge on humpback whale identification. &lt;a href=&quot;https://www.kaggle.com/c/humpback-whale-identification/leaderboard&quot;&gt;leaderboard&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A large-scale dataset is constructed for car re-identification in aerial images.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;u&gt;Related work:&lt;/u&gt;&lt;/p&gt;
+
+    &lt;p&gt;√     P. Wang, B. Jiao, L. Yang, Y. Yang, S. Zhang, W. Wei, Y. Zhang. &lt;strong&gt;Vehicle Re-identification in Aerial Imagery: Dataset and Approach&lt;/strong&gt;. In: arXiv:1904.01400v1, 2019&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="sample" /><category term="readability" /><summary type="html">Instance-level Recognition and Re-identification Recognizing object instances of the same category (such as face, person, car) is challenging due to the large intra-instance variation and small inter-instance variation. We constructed a large dataset for vehicle re-identification from aerial view and were top-ranked in related AI competitions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22image_retrieval.jpg%22%7D" /></entry><entry><title type="html">Reading Text from Images</title><link href="http://localhost:4000/articles/Reading-Text-from-Images/" rel="alternate" type="text/html" title="Reading Text from Images" /><published>2013-05-22T00:00:00+08:00</published><updated>2013-05-22T00:00:00+08:00</updated><id>http://localhost:4000/articles/Reading-Text-from-Images</id><content type="html" xml:base="http://localhost:4000/articles/Reading-Text-from-Images/">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We proposed an end-to-end trainable network for joint text detection and recognition. This is one of the first works that put text detection and recognition into a single framework.&lt;/p&gt;
+
+    &lt;p&gt;&lt;u&gt;Related work:&lt;u&gt;&lt;/u&gt;&lt;/u&gt;&lt;/p&gt;
+
+    &lt;p&gt;√     H. Li, P. Wang, C. Shen. &lt;strong&gt;Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks&lt;/strong&gt;. In: ICCV, 2017.&lt;/p&gt;
+
+    &lt;p&gt;√     H. Li, P. Wang#, C. Shen. &lt;strong&gt;Toward End-to-end Car License Plate Detection and Recognition with Deep Neural Networks&lt;/strong&gt;. In: TITS, 2018.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We proposed two simple irregular text recognizers based on encoder-decoder frameworks and 2d-attention mechanisms. These two models serve as part of the model ensemble that won the 1st place in the Task2 (Text Line Recognition in the Signboard) of ICDAR 2019 Robust Reading Challenge on Reading Chinese Text on Signboard. &lt;a href=&quot;https://rrc.cvc.uab.es/files/ICDAR2019-ReCTS.pdf&quot;&gt;leaderboard&lt;/a&gt;, &lt;a href=&quot;https://github.com/wangpengnorman/SAR-Strong-Baseline-for-Text-Recognition&quot;&gt;code&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;u&gt;Related work:&lt;u&gt;&lt;/u&gt;&lt;/u&gt;&lt;/p&gt;
+
+    &lt;p&gt;√     H. Li, P. Wang, C. Shen, G. Zhang. &lt;strong&gt;Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition&lt;/strong&gt;. In: AAAI, 2019.&lt;/p&gt;
+
+    &lt;p&gt;√     P. Wang, L. Yang, H. Li, Y. Deng, C. Shen, Y. Zhang. &lt;strong&gt;A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition&lt;/strong&gt;. In: arXiv:1904.01375, 2019&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="sample" /><category term="images" /><category term="test" /><summary type="html">Text in natural scene images contains rich semantic information that is crucial for visual understanding and reasoning. Although OCR has been studied extensively, reading irregular text of arbitrary shape is still a challenging task. Some of our work was published in ICCV and AAAI.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22research_text.png%22%7D" /></entry><entry><title type="html">Semidefinite Programming in CV</title><link href="http://localhost:4000/articles/Semidefinite-Programming-in-CV/" rel="alternate" type="text/html" title="Semidefinite Programming in CV" /><published>2012-05-22T00:00:00+08:00</published><updated>2012-05-22T00:00:00+08:00</updated><id>http://localhost:4000/articles/Semidefinite-Programming-in-CV</id><content type="html" xml:base="http://localhost:4000/articles/Semidefinite-Programming-in-CV/">&lt;p&gt;We proposed several fast Semidefinite Programming (SDP) algorithms are proposed to solve large-scale binary quadratic problems in vision applications.&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;Related work:&lt;u&gt;&lt;/u&gt;&lt;/u&gt;&lt;/p&gt;
+
+&lt;nav class=&quot;toc&quot;&gt;
+
+&lt;/nav&gt;
+
+&lt;p&gt;√     P. Wang, C. Shen, A. van den Hengel, P. H. S. Torr. &lt;strong&gt;Large-scale Binary Quadratic Optimization Using Semidefinite Relaxation and Applications&lt;/strong&gt;. In: TPAMI, 2017.&lt;/p&gt;
+
+&lt;p&gt;√     P. Wang, C. Shen, A. van den Hengel, P. H. S. Torr. &lt;strong&gt;Efficient Semidefinite Branch-and-Cut for MAP-MRF Inference&lt;/strong&gt;. In: IJCV, 2016.&lt;/p&gt;
+
+&lt;p&gt;√     P. Wang, C. Shen, A. van den Hengel. &lt;strong&gt;Efficient SDP Inference for Fully-connected CRFs based on Low-rank Decomposition&lt;/strong&gt;. In: CVPR, 2015.&lt;/p&gt;
+
+&lt;p&gt;√     P. Wang, C. Shen, A. van den Hengel. &lt;strong&gt;A Fast Semidefinite Approach to Solving Binary Quadratic Problems&lt;/strong&gt;. In: CVPR, 2013.&lt;/p&gt;</content><author><name></name></author><summary type="html">A variety of CV problems can be formulated as Binary Quadratic Problems (BQP), such as segmentation, image registration/matching and image denoising/restoration. We developed several fast and accurate BQP solvers based on semidefinite programming (SDP) relaxation. Details can be found in our publications in TPAMI, IJCV and CVPR.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22research_sdp.png%22%7D" /></entry><entry><title type="html">Boosting Algorithms for Object Detection</title><link href="http://localhost:4000/articles/Boosting-Algorithms-for-Object-Detection/" rel="alternate" type="text/html" title="Boosting Algorithms for Object Detection" /><published>2011-03-27T00:00:00+08:00</published><updated>2011-03-27T00:00:00+08:00</updated><id>http://localhost:4000/articles/Boosting-Algorithms-for-Object-Detection</id><content type="html" xml:base="http://localhost:4000/articles/Boosting-Algorithms-for-Object-Detection/">&lt;p&gt;Several totally-corrective boosting algorithms are designed specifically for face and pedestrian detection.&lt;/p&gt;
+&lt;nav class=&quot;toc&quot;&gt;
+
+&lt;/nav&gt;
+
+&lt;p&gt;&lt;u&gt;Related work:&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;√     C. Shen, P. Wang, S. Paisitkriangkrai, A. van den Hengel. &lt;strong&gt;Training Effective Node Classifiers for Cascade Classification&lt;/strong&gt;. In: IJCV, 2013.&lt;/p&gt;
+
+&lt;p&gt;√     P. Wang, C. Shen, N. Barnes, H. Zheng. &lt;strong&gt;Fast and Robust Object Detection using Asymmetric Totally-Corrective Boosting&lt;/strong&gt;. In: TNNLS, 2012.&lt;/p&gt;
+
+&lt;p&gt;√     C. Shen, P. Wang, H. Li. &lt;strong&gt;LACBoost and FisherBoost: Optimally Building Cascade Classifiers&lt;/strong&gt;. In: ECCV, 2010.&lt;/p&gt;
+
+&lt;p&gt;√     P. Wang, C. Shen, N. Barnes, H. Zheng, Z. Ren. &lt;strong&gt;Asymmetric Totally-Corrective Boosting for Real-Time Object Detection&lt;/strong&gt;. In: ACCV, 2010.&lt;/p&gt;</content><author><name></name></author><summary type="html">Several boosting algorithms were designed specifically for fast object detection. Our studies on boosting algorithms were from a new perspective, i.e., the dual formation of boosting algorithms.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/%7B%22teaser%22=%3E%22research_boosting1.png%22%7D" /></entry></feed>
