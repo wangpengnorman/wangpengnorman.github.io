@@ -19,37 +19,27 @@ share: false
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2019</div>
-            <div class="right-pubinfo"> Hui Li, Peng Wang, Chunhua Shen, <b>Towards End-to-End Text Spotting in Natural Scenes</b>, arXiv: 1906.06013, 2019 </div>
+            <div class="right-pubinfo"> Hui Li, Peng Wang, Chunhua Shen, <b>Towards End-to-End Text Spotting in Natural Scenes</b>, arXiv: 1906.06013, 2019
         </div>
     </div>
 </div>
-
 <div class="publications">
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2019</div>
-            <div class="right-pubinfo"> Ning Wang, Yang Gao, Hao Chen, Peng Wang, Zhi Tian, Chunhua Shen, <b>NAS-FCOS: Fast Neural Architecture Search for Object Detection</b>, arXiv: 1906.04423v1, 2019. <a href="https://github.com/Lausannen/NAS-FCOS"><u class="dotted">model</u></a> </div>
+            <div class="right-pubinfo"> Ning Wang, Yang Gao, Hao Chen, Peng Wang, Zhi Tian, Chunhua Shen, <b>NAS-FCOS: Fast Neural Architecture Search for Object Detection</b>, arXiv: 1906.04423v1, 2019. <a href="https://github.com/Lausannen/NAS-FCOS"><u class="dotted">model</u></a> 
         </div>
     </div>
 </div>
-
 <div class="publications">
     <div class="pub-line">
         <div class="publin-gourp">
             <div class="left-date">2019</div>
-            <div class="right-pubinfo"> Peng Wang, Lu Yang, Hui Li, Yuyan Deng, Chunhua Shen, Yanning Zhang. <b>A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition</b>. In: arXiv:1904.01375, 2019. </div>
+            <div class="right-pubinfo"> Peng Wang, Lu Yang, Hui Li, Yuyan Deng, Chunhua Shen, Yanning Zhang. <b>A Simple and Robust Convolutional-Attention Network for Irregular Text Recognition</b>. In: arXiv:1904.01375, 2019. 
         </div>
     </div>
 </div>
 
-<div class="publications">
-    <div class="pub-line">
-        <div class="publin-gourp">
-            <div class="left-date">2019</div>
-            <div class="right-pubinfo"> Peng Wang, Bingliang Jiao, Lu Yang, Yifei Yang, Shizhou Zhang, Wei Wei, Yanning Zhang. <b>Vehicle Re-identification in Aerial Imagery: Dataset and Approach</b>. In: arXiv:1904.01400v1, 2019. </div>
-        </div>
-    </div>
-</div>
 <br />
 <br />
 <p class="research-title">Journal Papers</p>
@@ -158,6 +148,14 @@ share: false
 <div class="border-bottom"></div>
 
 <!-- Conference Papers -->
+<div class="publications">
+    <div class="pub-line">
+        <div class="publin-gourp">
+            <div class="left-date">2019</div>
+            <div class="right-pubinfo"> Peng Wang, Bingliang Jiao, Lu Yang, Yifei Yang, Shizhou Zhang, Wei Wei, Yanning Zhang. <b>Vehicle Re-identification in Aerial Imagery: Dataset and Approach</b>. ICCV, 2019. Accepted
+        </div>
+    </div>
+</div>
 <div class="publications">
     <div class="pub-line">
         <div class="publin-gourp">

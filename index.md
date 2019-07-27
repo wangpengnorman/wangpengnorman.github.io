@@ -19,7 +19,7 @@ image:
   <p class="post-excerpt_" >I received a bachelor and a PhD degree at Beihang University, Beijing, China, in 2004 and 2011 respectively; then worked at Fujitsu Beijing R&D center for one year and at University of Adelaide for four years. Since 2017, I have been working as a Professor at Northwestern Polytechnical University. </p>
 </div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt_" >My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Deep Learning and Cross-media Intelligence. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TNNLS, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
+  <p class="post-excerpt_" >My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Cross-media Intelligence, OCR and Instance-level Recognition. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TNNLS, CVIU, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
   <br/>
 </div><!-- /.tile -->
 <br/>
@@ -33,6 +33,12 @@ image:
 <!-- news -->
 <br/>
 <div class="tiles">
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2019/07/25</font> 我在中国图象图形学学会“青年科学家论坛”作特邀报告：文本图像读取和图像语义理解。 </p>
+</div><!-- /.tile -->
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2019/07/23</font> One paper accepted by ICCV 2019.</p>
+</div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" > <font color="blue">2019/05/28</font> Our team was the 4th place in Task2.1 "Scene text recognition (Latin only)" of ICDAR2019 Robust Reading Challenge on Arbitrary-Shaped Text. <a href="https://rrc.cvc.uab.es/files/ICDAR2019-ArT1.pdf">leaderboard</a></p>
 </div><!-- /.tile -->
