@@ -11,8 +11,8 @@ ads: false
 # video中放视频路径，注意为https 
 # modified by liqiang&leitao 2019/07/08
 image:
-  teaser: research_nas.jpg 
-video: https://player.youku.com/embed/XNDE5Nzc1MDY4MA==
+  teaser: research_nas.jpg
+video: #https://player.youku.com/embed/XNDE5Nzc1MDY4MA==
 
 # video:
 ---
