@@ -20,4 +20,4 @@ video:
 
 - <u>Related work:</u>
 
-    &radic; &nbsp; &nbsp; P. Wang, B. Jiao, L. Yang, Y. Yang, S. Zhang, W. Wei, Y. Zhang. **Vehicle Re-identification in Aerial Imagery: Dataset and Approach**. In: arXiv:1904.01400v1, 2019
+    &radic; &nbsp; &nbsp; P. Wang, B. Jiao, L. Yang, Y. Yang, S. Zhang, W. Wei, Y. Zhang. **Vehicle Re-identification in Aerial Imagery: Dataset and Approach**. In: ICCV, 2019. Accepted
