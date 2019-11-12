@@ -19,7 +19,7 @@ image:
   <p class="post-excerpt_" >I received a bachelor and a PhD degree at Beihang University, Beijing, China, in 2004 and 2011 respectively; then worked at Fujitsu Beijing R&D center for one year and at University of Adelaide for four years. Since 2017, I have been working as a Professor at Northwestern Polytechnical University. </p>
 </div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt_" >My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Cross-media Intelligence, OCR and Instance-level Recognition. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TNNLS, CVIU, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
+  <p class="post-excerpt_" >My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Cross-media Intelligence, OCR and Instance-level Recognition. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TIP, TGRS, TNNLS, CVIU, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
   <br/>
 </div><!-- /.tile -->
 <br/>
@@ -33,6 +33,15 @@ image:
 <!-- news -->
 <br/>
 <div class="tiles">
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2019/11/12</font> 参加CSIG图像图形中国行-陕西大学站，并作报告。</p>
+</div>
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2019/11/11</font> One AAAI paper (the first author is an undergraduate student) and one TIP paper got accepted. </p>
+</div>
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2019/11/11</font> I served as a local co-chair for PRCV 2019. Our team presented 2 orals and 1 poster as well. <a href="http://www.prcv2019.com/en/index.html">conference website</a></p>
+</div>
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" > <font color="blue">2019/08/30</font> I co-organized a PR (IF=5.898) special issue on vision and language. Submission deadline: 12 February 2020. <a href="https://www.journals.elsevier.com/pattern-recognition/call-for-papers/bridging-the-vision-language-gap-in-multimodal-data-analysis">callfor</a></p>
 </div><!-- /.tile -->
