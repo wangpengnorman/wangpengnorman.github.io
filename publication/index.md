@@ -49,8 +49,16 @@ share: false
 <div class="publications">
     <div class="pub-line">
         <div class="publin-gourp">
-            <div class="left-date">2019</div>
-            <div class="right-pubinfo"> Jiaqi Yang, Siwen Quan, Peng Wang and Yanning Zhang. <b>Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching</b>. IEEE Transactions on Image Processing (TIP), 2019. Accepted 
+            <div class="left-date">2020</div>
+            <div class="right-pubinfo"> Jiaqi Yang, Ke Xian, Peng Wang*, Yanning Zhang. <b>A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching</b>. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.  
+        </div>
+    </div>
+</div>
+<div class="publications">
+    <div class="pub-line">
+        <div class="publin-gourp">
+            <div class="left-date">2020</div>
+            <div class="right-pubinfo"> Jiaqi Yang, Siwen Quan, Peng Wang and Yanning Zhang. <b>Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching</b>. IEEE Transactions on Image Processing (TIP), 2020.  
         </div>
     </div>
 </div>

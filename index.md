@@ -34,7 +34,7 @@ image:
 <br/>
 <div class="tiles">
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt_" > <font color="blue">2019/11/12</font> 参加CSIG图像图形中国行-陕西大学站，并作报告。</p>
+  <p class="post-excerpt_" > <font color="blue">2019/11/12</font> 参加CSIG图像图形中国行-陕西科技大学站，并作报告。</p>
 </div>
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" > <font color="blue">2019/11/11</font> One AAAI paper (the first author is an undergraduate student) and one TIP paper got accepted. </p>
