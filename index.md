@@ -19,7 +19,7 @@ image:
   <p class="post-excerpt_" >I received a bachelor and a PhD degree at Beihang University, Beijing, China, in 2004 and 2011 respectively; then worked at Fujitsu Beijing R&D center for one year and at University of Adelaide for four years. Since 2017, I have been working as a Professor at Northwestern Polytechnical University. </p>
 </div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
-  <p class="post-excerpt_" >My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Cross-media Intelligence, OCR and Instance-level Recognition. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TIP, TGRS, TNNLS, CVIU, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
+  <p class="post-excerpt_" >My research is focused on Computer Vision, Machine Learning and Artificial Intelligence. Recently, I am particularly interested in Cross-media Intelligence, OCR and Instance-level Recognition. Some of my work have been published on top-tier journals and conferences on CV and AI, including TPAMI, IJCV, TIP, TGRS, TNNLS, TMM, CVIU, CVPR, ICCV, ECCV, AAAI and IJCAI.</p>
   <br/>
 </div><!-- /.tile -->
 <br/>
@@ -33,6 +33,9 @@ image:
 <!-- news -->
 <br/>
 <div class="tiles">
+<div class="tile" style="clear:both ;position:relative;left:100px">
+  <p class="post-excerpt_" > <font color="blue">2020/02/26</font> One TMM paper accepted.</p>
+</div><!-- /.tile -->
 <div class="tile" style="clear:both ;position:relative;left:100px">
   <p class="post-excerpt_" > <font color="blue">2020/02/25</font> Two papers accepted by CVPR 2020.</p>
 </div><!-- /.tile -->

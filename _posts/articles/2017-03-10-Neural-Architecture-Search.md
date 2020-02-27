@@ -22,4 +22,4 @@ We designed a fast NAS method for object detection. The discovered architecture 
 
 <u>Related paper:<u/>
 
-&radic; &nbsp; &nbsp; N. Wang, Y. Gao, H. Chen, P. Wang, Z. Tian, C. Shen. **NAS-FCOS: Fast Neural Architecture Search for Object Detection**. In: arXiv 1906.04423, 2019. <a href="https://github.com/Lausannen/NAS-FCOS">model</a>
+&radic; &nbsp; &nbsp; N. Wang, Y. Gao, H. Chen, P. Wang, Z. Tian, C. Shen, Y. Zhang. **NAS-FCOS: Fast Neural Architecture Search for Object Detection**. In: CVPR, 2020. <a href="https://github.com/Lausannen/NAS-FCOS">model</a>
